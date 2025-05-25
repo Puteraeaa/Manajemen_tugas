@@ -1,5 +1,5 @@
 
-## 🛠️ Cara Instalasi TaskFlow Secara Lokal
+## 🛠️ Cara Instalasi Manajeman Tugas Secara Lokal
 
 > Berikut langkah-langkah untuk menjalankan project Laravel + Filament + Shield ini secara lokal.
 
